@@ -1,0 +1,3 @@
+from .base_repository import BaseRepository
+from .usuario_repository import UsuarioRepository
+from .registro_diario_repository import RegistroDiarioRepository
